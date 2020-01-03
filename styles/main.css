@@ -115,56 +115,56 @@
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   padding: 31px 15px 15px; }
-  .card .card__image {
+  .card__image {
     width: 160px;
     height: 134px;
     margin: 0 5px;
     padding-bottom: 41px; }
-  .card .card__description {
+  .card__description {
     margin: 0;
     font-weight: 500;
     font-size: 12px;
     line-height: 15px;
     padding-bottom: 5px; }
-  .card .card__code {
+  .card__code {
     margin: 0;
     font-size: 11px;
     line-height: 13px;
     padding-bottom: 15px; }
-  .card .card__stars {
+  .card__stars {
     position: absolute;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     padding-right: 1px; }
-  .card .card__star {
+  .card__star {
     width: 15px;
     height: 15px;
     background: url(../images/star-active.svg) center no-repeat;
     padding-right: 4px; }
-  .card .card__stars .card__star:last-child {
+  .card .stars .card__star:last-child {
     background: url(../images/star.svg) center no-repeat; }
-  .card .card__feedback {
+  .card__feedback {
     margin: 0;
     position: absolute;
     font-size: 11px;
     line-height: 13px;
     text-align: right;
     padding: 1px 0 0 112px; }
-  .card .card__price {
+  .card__price {
     margin: 0;
     padding-top: 40px;
     position: absolute;
     font-size: 11px;
     line-height: 13px; }
-  .card .card__number {
+  .card__number {
     margin: 0;
     padding-top: 34px;
     padding-left: 91px;
     font-weight: bold;
     font-size: 16px;
     line-height: 19px; }
-  .card .card__button {
+  .card__button {
     position: absolute;
     width: 170px;
     height: 40px;
@@ -181,7 +181,7 @@
     text-transform: uppercase;
     text-decoration: none;
     cursor: pointer; }
-  .card .card__button:hover {
+  .card__button:hover {
     background-color: #fff;
     color: #00addc; }
 
